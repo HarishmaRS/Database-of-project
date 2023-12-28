@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "605c5c37bff60314745b1915"
+  },
+  "name": "Nehru Nagar, Karaikal",
+  "city_id": 1,
+  "location_id": 1,
+  "city_name": "Pondicherry",
+  "country_name": "India",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605c5c56bff60314745b1916"
+  },
+  "name": "Thirunallar, Karaikal",
+  "city_id": 1,
+  "location_id": 2,
+  "city_name": "Pondicherry",
+  "country_name": "India",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605c5c65bff60314745b1917"
+  },
+  "name": "PK Salai, Karaikal",
+  "city_id": 1,
+  "location_id": 3,
+  "city_name": "Pondicherry",
+  "country_name": "India",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605c5c87bff60314745b1918"
+  },
+  "name": "Kottucherry, Karaikal",
+  "city_id": 1,
+  "location_id": 4,
+  "city_name": "Pondicherry",
+  "country_name": "India",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605c5cf4bff60314745b191c"
+  },
+  "name": "TR Pattinam, Karaikal",
+  "city_id": 1,
+  "location_id": 5,
+  "city_name": "Pondicherry",
+  "country_name": "India",
+  "__v": 0
+}]

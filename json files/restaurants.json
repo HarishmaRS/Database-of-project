@@ -1,0 +1,502 @@
+[{
+  "_id": {
+    "$oid": "605dccdc96b0c919d0cf86d2"
+  },
+  "name": "Kandas",
+  "locality": "Nehrunagar",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 1,
+  "address": "Bharathiyar St, opp. State Bank Of India, Karaikal, Puducherry 609602",
+  "thumb": "assets/kandas.jpg",
+  "cost": 450,
+  "contact_number": {
+    "$numberLong": "9489962444"
+  },
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d3"
+      },
+      "mealtype": 1,
+      "name": "breakfast"
+    },
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d4"
+      },
+      "mealtype": 2,
+      "name": "lunch"
+    },
+    {
+      "_id": {
+        "$oid": "605c8a1f2b77fe245cb1ea4f"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d5"
+      },
+      "cuisine": 1,
+      "name": "North Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d6"
+      },
+      "cuisine": 2,
+      "name": "South Indian"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dcd1996b0c919d0cf86d7"
+  },
+  "name": "Arusuvai",
+  "locality": "Nehrunagar",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 1,
+  "address": "No, 10, P.K. Salai, Karaikal, Puducherry 609602",
+  "thumb": "assets/arusuvai hotel.jpg",
+  "cost": 230,
+  "contact_number": {
+    "$numberLong": "4368227744"
+  },
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dcd1996b0c919d0cf86d8"
+      },
+      "mealtype": 1,
+      "name": "breakfast"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd1996b0c919d0cf86d9"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    },
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d4"
+      },
+      "mealtype": 2,
+      "name": "lunch"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dcd1996b0c919d0cf86da"
+      },
+      "cuisine": 1,
+      "name": "North Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd1996b0c919d0cf86db"
+      },
+      "cuisine": 2,
+      "name": "South Indian"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dcd5a96b0c919d0cf86dc"
+  },
+  "name": "Arya's",
+  "locality": "Thirunallar",
+  "city_name": "Trichy",
+  "city_id": 1,
+  "location_id": 2,
+  "address": "Karaikal Bazaar, Karaikal - 609602",
+  "thumb": "assets/aryas hotel.jpg",
+  "cost": 530,
+  "contact_number": 467564,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dcd5a96b0c919d0cf86dd"
+      },
+      "mealtype": 2,
+      "name": "lunch"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd5a96b0c919d0cf86de"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    },
+    {
+      "_id": {
+        "$oid": "605dce3296b0c919d0cf86f6"
+      },
+      "mealtype": 4,
+      "name": "snacks"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dcd5a96b0c919d0cf86df"
+      },
+      "cuisine": 2,
+      "name": "South Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd5a96b0c919d0cf86e0"
+      },
+      "cuisine": 4,
+      "name": "FastFood"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dcd8a96b0c919d0cf86e1"
+  },
+  "name": "Asif Briyani",
+  "locality": "Thirunallar",
+  "city_name": "Karaikal",
+  "city_id": 3,
+  "location_id": 2,
+  "address": "Thirunallar Rd, opp. Sun Super Market, Karaikal, Puducherry 609602",
+  "thumb": "assets/asif briyani.jpg",
+  "cost": 670,
+  "contact_number": {
+    "$numberLong": "9526214926"
+  },
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dcd8a96b0c919d0cf86e2"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd8a96b0c919d0cf86e3"
+      },
+      "mealtype": 5,
+      "name": "drinks"
+    },
+    {
+      "_id": {
+        "$oid": "605dce3296b0c919d0cf86f6"
+      },
+      "mealtype": 4,
+      "name": "snacks"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dcd8a96b0c919d0cf86e4"
+      },
+      "cuisine": 1,
+      "name": "North Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd8a96b0c919d0cf86e5"
+      },
+      "cuisine": 3,
+      "name": "Continental"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dcdb996b0c919d0cf86e6"
+  },
+  "name": "Pannai Veedu",
+  "locality": "PK Salai",
+  "city_name": "Karaikal",
+  "city_id": 4,
+  "location_id": 3,
+  "address": "10, Pulian Kottai Salai, Melatheru, Kilinjalmedu, Karaikal, Puducherry 609605",
+  "thumb": "assets/pannaiveedu.jpg",
+  "cost": 450,
+  "contact_number": 8731537,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dcdb996b0c919d0cf86e7"
+      },
+      "mealtype": 1,
+      "name": "breakfast"
+    },
+    {
+      "_id": {
+        "$oid": "605dcdb996b0c919d0cf86e8"
+      },
+      "mealtype": 5,
+      "name": "drinks"
+    },
+    {
+      "_id": {
+        "$oid": "605dcd8a96b0c919d0cf86e2"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dcdb996b0c919d0cf86e9"
+      },
+      "cuisine": 2,
+      "name": "South Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dcdb996b0c919d0cf86ea"
+      },
+      "cuisine": 4,
+      "name": "FastFood"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dcddf96b0c919d0cf86eb"
+  },
+  "name": "Le Arabian",
+  "locality": "PK Salai",
+  "city_name": "Karikal",
+  "city_id": 5,
+  "location_id": 3,
+  "address": "Bharathiyar St, Karaikal, Puducherry 609602",
+  "thumb": "assets/arabian.jpg",
+  "cost": 630,
+  "contact_number": {
+    "$numberLong": "4368224466"
+  },
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dcddf96b0c919d0cf86ec"
+      },
+      "mealtype": 5,
+      "name": "drinks"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dcddf96b0c919d0cf86ee"
+      },
+      "cuisine": 3,
+      "name": "Continental"
+    },
+    {
+      "_id": {
+        "$oid": "605dcddf96b0c919d0cf86ef"
+      },
+      "cuisine": 4,
+      "name": "FastFood"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dce0996b0c919d0cf86f0"
+  },
+  "name": "AVS Imperiaa",
+  "locality": "Kottucherry",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 4,
+  "address": "No: 9, Thiruvalluvar Nagar Thirunallar Main Road,Patchoor, Karaikal, Puducherry 609602",
+  "thumb": "assets/AVS.jpg",
+  "cost": 450,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dce0996b0c919d0cf86f1"
+      },
+      "mealtype": 2,
+      "name": "lunch"
+    },
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d3"
+      },
+      "mealtype": 1,
+      "name": "beakfast"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dce0996b0c919d0cf86f3"
+      },
+      "cuisine": 1,
+      "name": "North Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dce0996b0c919d0cf86f4"
+      },
+      "cuisine": 3,
+      "name": "Continental"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dce3296b0c919d0cf86f5"
+  },
+  "name": "Seagulls",
+  "locality": "Kottucherry",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 4,
+  "address": "Karaikal Beach Road, Karaikal-609609",
+  "thumb": "assets/seagulls.jpg",
+  "cost": 350,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dce3296b0c919d0cf86f6"
+      },
+      "mealtype": 4,
+      "name": "snacks"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dce3296b0c919d0cf86f8"
+      },
+      "cuisine": 1,
+      "name": "North Indian"
+    },
+    {
+      "_id": {
+        "$oid": "605dce3296b0c919d0cf86f9"
+      },
+      "cuisine": 4,
+      "name": "Fast Food"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dce5c96b0c919d0cf86fa"
+  },
+  "name": "Juice World",
+  "locality": "TR Pattinam",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 5,
+  "address": "No 22, Kannadiyar Street, Karaikal Bazaar, Karaikal - 609602",
+  "thumb": "assets/Juice world.jpg",
+  "cost": 380,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dce5c96b0c919d0cf86fb"
+      },
+      "mealtype": 5,
+      "name": "drinks"
+    },
+    {
+      "_id": {
+        "$oid": "605dce5c96b0c919d0cf86fc"
+      },
+      "mealtype": 4,
+      "name": "snacks"
+    },
+    {
+      "_id": {
+        "$oid": "605dccdc96b0c919d0cf86d4"
+      },
+      "mealtype": 2,
+      "name": "lunch"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dce5c96b0c919d0cf86fd"
+      },
+      "cuisine": 4,
+      "name": "Fast Food"
+    },
+    {
+      "_id": {
+        "$oid": "605dce5c96b0c919d0cf86fe"
+      },
+      "cuisine": 5,
+      "name": "Street Food"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605dce8d96b0c919d0cf86ff"
+  },
+  "name": "SuttaKozhi",
+  "locality": "TR Pattinam",
+  "city_name": "Karaikal",
+  "city_id": 1,
+  "location_id": 5,
+  "address": "No-32, Bharathiyar St, Karaikal, Puducherry 609602",
+  "thumb": "assets/Suttakozhi.jpg",
+  "cost": 650,
+  "mealtype_id": [
+    {
+      "_id": {
+        "$oid": "605dce8d96b0c919d0cf8700"
+      },
+      "mealtype": 5,
+      "name": "drinks"
+    },
+    {
+      "_id": {
+        "$oid": "605dce8d96b0c919d0cf8701"
+      },
+      "mealtype": 3,
+      "name": "dinner"
+    }
+  ],
+  "cuisine_id": [
+    {
+      "_id": {
+        "$oid": "605dce8d96b0c919d0cf8702"
+      },
+      "cuisine": 4,
+      "name": "Fast Food"
+    },
+    {
+      "_id": {
+        "$oid": "605dce8e96b0c919d0cf8703"
+      },
+      "cuisine": 5,
+      "name": "Street Food"
+    }
+  ],
+  "__v": 0
+}]
